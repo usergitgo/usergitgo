@@ -1,5 +1,5 @@
 <!-- Top Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Jonghyun%20Kim&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=HW/SW&fontSize=45&fontColor=ffffff" />
 
 <br>
 
@@ -35,9 +35,9 @@ expertise through engineering projects.
 ## 📈 GitHub Stats
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=usergitgo&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usergitgo&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
