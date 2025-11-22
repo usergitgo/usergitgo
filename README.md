@@ -1,5 +1,5 @@
 <!-- Top Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=HW%10/%10SW&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=HW%10SW&fontSize=45&fontColor=ffffff" />
 
 <br>
 
