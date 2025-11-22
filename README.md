@@ -6,8 +6,7 @@
 ## 👋 Hello! I'm **Jonghyun Kim**
 Focused on **RTL Design, Verification, and Embedded Systems**
 
-I majored in **Electronic Engineering**, and I’m currently strengthening my  
-expertise through engineering projects.
+I majored in **Electronic Engineering**, and I’m currently enhancing my expertise through engineering projects.
 
 ---
 
