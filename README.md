@@ -33,6 +33,7 @@ expertise through engineering projects.
 ![PCB](https://img.shields.io/badge/PCB-0A8754?style=for-the-badge)
 ---
 
+🔗 You can visit my GitHub profile here: [github.com/usergitgo/Projects](https://github.com/usergitgo/Projects)
 
 ## 📈 GitHub Stats
 <div align="center">
