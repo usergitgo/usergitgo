@@ -32,16 +32,6 @@ I majored in **Electronic Engineering**, and I’m currently enhancing my expert
 ![PCB](https://img.shields.io/badge/PCB-0A8754?style=for-the-badge)
 ---
 
-👉 <a href="https://github.com/usergitgo/Projects">Projects Code Link</a> 👈
-
-
-## 📈 GitHub Stats
-<div align="center">
-
-<img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=usergitgo&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
-
-<img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=usergitgo&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&v=2" />
-
 </div>
 
 <!-- Footer Wave -->
